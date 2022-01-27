@@ -1,0 +1,10 @@
+C:\Users\serkan\Desktop\bilge adam\marathon2\marathon2\marathon2\bin\Debug\marathon2.exe.config
+C:\Users\serkan\Desktop\bilge adam\marathon2\marathon2\marathon2\bin\Debug\marathon2.exe
+C:\Users\serkan\Desktop\bilge adam\marathon2\marathon2\marathon2\bin\Debug\marathon2.pdb
+C:\Users\serkan\Desktop\bilge adam\marathon2\marathon2\marathon2\obj\Debug\marathon2.csproj.AssemblyReference.cache
+C:\Users\serkan\Desktop\bilge adam\marathon2\marathon2\marathon2\obj\Debug\marathon2.Form1.resources
+C:\Users\serkan\Desktop\bilge adam\marathon2\marathon2\marathon2\obj\Debug\marathon2.Properties.Resources.resources
+C:\Users\serkan\Desktop\bilge adam\marathon2\marathon2\marathon2\obj\Debug\marathon2.csproj.GenerateResource.cache
+C:\Users\serkan\Desktop\bilge adam\marathon2\marathon2\marathon2\obj\Debug\marathon2.csproj.CoreCompileInputs.cache
+C:\Users\serkan\Desktop\bilge adam\marathon2\marathon2\marathon2\obj\Debug\marathon2.exe
+C:\Users\serkan\Desktop\bilge adam\marathon2\marathon2\marathon2\obj\Debug\marathon2.pdb
